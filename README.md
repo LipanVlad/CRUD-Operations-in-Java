@@ -1,0 +1,1 @@
+This program can add a new employee in the database, return a list of the employees that have a greater salary than any input, can update an employee's salary and can remove any employee based on their id.
